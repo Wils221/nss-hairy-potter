@@ -1,4 +1,4 @@
-/*
+
 export const PotteryList = (arr) => {
     let string = "";
     string += `<section class="pottery" id="pottery--1">
@@ -10,4 +10,4 @@ export const PotteryList = (arr) => {
         Price is ${obj.price}
     </div>
     </section>`
-} */
+} 
