@@ -5,7 +5,7 @@ export const makePottery = (shape, weight, height) => {
     shape = shape;
     weight = weight;
     height = height;
-    id = primaryKey++   
+    id; primaryKey  
 
     return pots
 }
